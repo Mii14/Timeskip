@@ -2,4 +2,4 @@
 
 Player moves tile to tile (up or down) but interacting with objects such as firing the cannon do not count as a move. The objective here is to survive 300 Timesteps while keeping the enemy at bay (away from the portal base).
 
-Slide: https://canva.link/l01i073302tf1kd
+More information: https://canva.link/l01i073302tf1kd
